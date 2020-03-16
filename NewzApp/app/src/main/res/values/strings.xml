@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily Newz</string>
+
+    <string name="sample_title">The Times of India</string>
+
+    <string name="noNet">No Internet Connection</string>
+
+    <string name="no_news">No News Found at this Moment</string>
+
+    <string name="sample_description">India News: Making a strong pitch for SAARC nations to jointly combat coronavirus, PM Modi on Sunday proposed setting up a COVID-19 emergency fund with India comm</string>
+</resources>
